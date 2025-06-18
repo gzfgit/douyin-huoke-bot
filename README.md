@@ -23,8 +23,8 @@
 
 每个抖音账号只能使用一次天卡，除天卡有次数限制外，其它无次数限制。
 
-![image-20250106132138978](./resource/image/price-20250408.png)
-
+[![image-20250106132138978](./resource/image/price-20250408.png)
+](https://www.efanauto.com/rpa-web/PricingCards.html)
 ## 🔮抖音获客系统
 
 - 支持抖音账号托管
@@ -53,26 +53,18 @@
 **对话管理筛选：** 系统提供评论管理和筛选功能，筛选功能支持按账号、对话内容等筛选，可以导出评论内容。
 
 **抖音账号管理功能示例：**
+![image](https://github.com/user-attachments/assets/131ff2ca-5a70-4d32-9051-ffe18e4f7b09)
 
-<img src="resource/image/douyin_user.png" alt="douyin" style="zoom:50%;" />
 
-<img src="resource/image/douyin_user_2.png" alt="douyin" style="zoom:50%;" />
+![image](https://github.com/user-attachments/assets/027cf2f3-87bc-4bdc-915d-8b8b513ca88a)
 
-**抖音智能客服（私信自动回复）：**
 
-https://github.com/user-attachments/assets/a557a538-621a-441d-a3bc-0e4c037cb516
-
-B站原视频链接：https://www.bilibili.com/video/BV13biTe9EMR
 
 **评论自动回复管理：**
 
-<img src="resource/image/douyin_comment.png" alt="douyin" style="zoom:50%;" />
+![image](https://github.com/user-attachments/assets/f292c9e5-c618-485f-acce-713905d81746)
+![image](https://github.com/user-attachments/assets/da9413f5-516c-4b54-9e8a-55575dcfc43b)
 
-<img src="resource/image/douyin_comment_2.png" alt="douyin" style="zoom:50%;" />
-
-**抖音视频管理（支持无水印查看下载）：**
-
-<img src="resource/image/douyin_video.png" alt="douyin" style="zoom:50%;" />
 
 ## 使用方法
 
