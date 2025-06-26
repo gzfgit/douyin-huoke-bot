@@ -22,10 +22,8 @@
 
 ## 💰收费标准
 
-每个抖音账号只能使用一次天卡，除天卡有次数限制外，其它无次数限制。
+目前免费使用，联系我获取软件
 
-[![image-20250106132138978](./resource/image/price-20250408.png)
-](https://www.efanauto.com/rpa-web/PricingCards.html)
 ## 🔮抖音获客系统
 
 - 支持抖音账号托管
